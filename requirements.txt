@@ -1,0 +1,13 @@
+# Versión estable de numpy compatible con TensorFlow y que no requiere compilación manual
+numpy<2.0
+
+# Librerías principales
+opencv-python
+deepface
+customtkinter
+pillow
+tf-keras
+
+# Dependencias adicionales para asegurar compatibilidad en Windows
+h5py
+typing-extensions
